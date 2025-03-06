@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Yadav</h1>
-<h3 align="center">A passionate MERN Stack and PHP(LARAVEL) developer from India</h3>
+<h3 align="center">A passionate MERN Stack and PHP (Laravel) Developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack Development in Deep**
+- 🔭 I’m currently working on **Well Jobs**
 
-- 💬 Ask me about **C++, Java, HTML, CSS, JavaScript, Tailwind css, Bootstrap, React, Node.js, Express.js, PHP, LARAVEL, Mongodb, MySql, Swiper.js,**
+- 🌱 I’m currently learning **MERN Stack Development in Depth & Advanced Concepts**
+
+- 👯 I’m looking to collaborate on **Full-Stack Web Development Projects**
+
+- 🤝 I’m looking for help with **Advanced System Architecture & Scalable Applications**
+
+- 💬 Ask me about **C++, Java, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Node.js, Express.js, PHP, LARAVEL, Mongodb, MySql, Swiper.js,**
 
 - 📫 How to reach me **deepakkumaryadav75100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/deepakyadav01z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakyadav01z" height="30" width="40" /></a>
+<a href="https://fb.com/deepakyadav01z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepakyadav01z" height="30" width="40" /></a>
+<a href="https://instagram.com/deepak_yadav_01z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_yadav_01z" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
